@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
-- 💬 Ask me about **MERN(Mongodb , Express js , React and Node Js)**
+- 💬 Ask me about **MERN(Mongodb , ExpressJs , React and NodeJs)**
 
 - 📫 How to reach me **Harshitag2518@gmail.com**
 
